@@ -3,6 +3,6 @@
 // 3 - Ele deve ter um "contador".
 // 4 - A cada "iteração" ele deve incrementar o contador caso seja correta a condição
 
-for (contador = 0, contador <= 50, contador ++) {
+for (contador = 0; contador <= 50; contador++) {
     console.log(contador);
 }
